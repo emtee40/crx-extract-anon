@@ -2,7 +2,7 @@
 
 CRX Extractor is an online tool helping people understand internals of any Chrome Extension published at Chrome WebStore.
 CRX Extractor can download .CRX file, get the source code from .CRX file and save .CRX Chrome Extension.
-Try it yourself at http://crxextractor.com
+Try it yourself at http://crxextractor.com (original site, currently dead) or https://anon-123456789.github.io/crx-extractor (Analytics and Ads removed, always online if this repo exists)
 
 ## How it works?
 
