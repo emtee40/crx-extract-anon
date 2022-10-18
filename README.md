@@ -22,4 +22,4 @@ At the CRX Extractor website there are a lot of information about .crx files and
 Add issue if you want any additional features. I plan to implement some kind of inspection of the Chrome Extension, 
 that will allow to analyze source code for possible fishing and other leaches. 
 
-Donate BTC: 1CrxExtJnRSLRf4rTBoWM65RC1LC3QaCtS
+Donate BTC to the __original author__: 1CrxExtJnRSLRf4rTBoWM65RC1LC3QaCtS
